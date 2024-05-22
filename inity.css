@@ -137,6 +137,11 @@
   background-color: rgb(255, 255, 255);
 }
 
+#error-message {
+  color: black;
+  margin-bottom: 10px;
+}
+
 @media only screen and (min-width: 375px) {
   .container {
     display: flex;
